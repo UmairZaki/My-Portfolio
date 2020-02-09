@@ -22,15 +22,15 @@
 			text-align: left;
 
 			&.style1 {
-				background-color: _palette(accent1);
+				background-color: rgba(1, 193, 207, 0.822);
 			}
 
 			&.style2 {
-				background-color: _palette(accent2);
+				background-color: rgb(255, 168, 183);
 			}
 
 			&.style3 {
-				background-color: _palette(accent3);
+				background-color: plum;
 			}
 
 			&.style4 {
@@ -41,16 +41,16 @@
 				background-color: _palette(accent5);
 			}
 			h2{
-				color: white !important;
-				font-weight: 600 !important;
+				color: rgb(36, 36, 36) !important;
+				font-weight: 400 !important;
 				margin-top: 1em;
-				letter-spacing: 0.05em;
+				letter-spacing: 0.03em;
 				font-size: 1.7em;
 			}
 			h3{
-				color: white !important;
-				font-weight: 600 !important;
-				letter-spacing: 0.05em;
+				color: rgb(68, 68, 68) !important;
+				font-weight: 400 !important;
+				letter-spacing: 0.03m;
 			}
 			p{
 				line-height: 1.5em;

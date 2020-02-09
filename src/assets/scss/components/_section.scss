@@ -9,6 +9,9 @@
 	section, article {
 		&.special {
 			text-align: center;
+			background-color: rgb(7, 70, 78);
+			
+
 		}
 	}
 
@@ -18,6 +21,7 @@
 
 			h2 {
 				font-size: 2em;
+				color: rgb(155, 255, 255);
 
 				&:after {
 					display: block;
@@ -37,6 +41,7 @@
 			p {
 				font-size: 1.25em;
 				letter-spacing: _font(letter-spacing);
+				color: rgb(80, 255, 255);
 			}
 
 			&.special {

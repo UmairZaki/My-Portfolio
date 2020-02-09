@@ -71,7 +71,7 @@ class Index extends React.Component {
   render() {
     return (
       <Layout>
-        <Helmet title="Gatsby Starter - Stellar" />
+        <Helmet title="Umair Zaki - Portfolio" />
 
         <Header />
 
@@ -82,7 +82,7 @@ class Index extends React.Component {
         <Nav sticky={this.state.stickyNav} />
 
         <div id="main">
-          <section id="intro" className="main">
+          <section id="intro" className="main special">
             <div className="spotlight">
               <div className="content">
                 <header className="major">
@@ -100,7 +100,7 @@ class Index extends React.Component {
                 </ul> */}
               </div>
               <span className="image">
-                <img src={pic41} alt="" />
+                <img src={pic40} alt="" />
               </span>
             </div>
           </section>
@@ -406,7 +406,7 @@ class Index extends React.Component {
             <p>to see my Fiverr Profile <a href="https://www.fiverr.com/users/umairjamstackai/seller_dashboard" target = "_blank"> Click Here</a></p>
                 </div>
                 <span className="image">
-                <img src={pic40} alt="" />
+                <img src={pic41} alt="" />
               </span>
                 </div>
               </li>
