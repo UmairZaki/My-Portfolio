@@ -51,7 +51,7 @@ Karachi, Pakistan.</dd>
       </ul>
     </section>
     <p className="copyright">
-      &copy; Umair Zaki | 0313273668
+      &copy; Umair Zaki | 03132873668
     </p>
   </footer>
 )
